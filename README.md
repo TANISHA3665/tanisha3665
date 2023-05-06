@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+  <img width="500" height="200" src="https://user-images.githubusercontent.com/62883463/236630159-7f62b826-c938-4f0f-aa38-fe7b7fbe0e9f.gif">
 </p>
 
  [![Hashnode Badge](https://img.shields.io/badge/-tanisha-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://tanishaaaa.hashnode.dev/)](https://tanishaaaa.hashnode.dev/)  [![Linkedin Badge](https://img.shields.io/badge/-tanisha-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)  [![Linktree Badge](https://img.shields.io/badge/-tanisha-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://linktr.ee/tanisha3665)](https://linktr.ee/tanisha3665)  [![Portfolio Badge](https://img.shields.io/badge/-tanisha.me-c14438?style=flat-square&logo=Browser&logoColor=white&link=https://TANISHA3665.github.io/)](https://TANISHA3665.github.io/) 
