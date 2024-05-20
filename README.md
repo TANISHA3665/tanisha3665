@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
  
--  As a dedicated software developer with almost a year of experience specializing in backend development with Node.js, I am passionate about building efficient, scalable, and high-performance server-side applications. My journey in the software development world has equipped me with a strong foundation in Node.js, enabling me to create robust solutions that drive business success.
+ As a dedicated software developer with almost a year of experience specializing in backend development with Node.js, I am passionate about building efficient, scalable, and high-performance server-side applications. My journey in the software development world has equipped me with a strong foundation in Node.js, enabling me to create robust solutions that drive business success.
 
 During my professional experience, I have been involved in various projects where I have successfully designed, developed, and maintained backend systems. My expertise includes creating RESTful APIs, managing databases, and optimizing server performance to ensure seamless user experiences.
 
