@@ -26,10 +26,22 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
  
--  **Learning :** Full-Stack Development:zap:, Open-Source:fire:, Mobile-App Development📱	
--  **Languages :** Java, C, JavaScript, Kotlin💻
--  **Hobbies :** Articles, Books📕, Novels & Music :headphones:
--  **Fact :** Talk is cheap. Show me the code. 🎯:heart:
+-  As a dedicated software developer with almost a year of experience specializing in backend development with Node.js, I am passionate about building efficient, scalable, and high-performance server-side applications. My journey in the software development world has equipped me with a strong foundation in Node.js, enabling me to create robust solutions that drive business success.
+
+During my professional experience, I have been involved in various projects where I have successfully designed, developed, and maintained backend systems. My expertise includes creating RESTful APIs, managing databases, and optimizing server performance to ensure seamless user experiences.
+
+Key skills and highlights of my experience include:
+
+* Proficiency in Node.js and Express.js for backend development.
+* Strong understanding of RESTful API design and implementation.
+* Experience with both relational and NoSQL databases, including MongoDB and MySQL.
+* Knowledge of microservices architecture and distributed systems.
+* Ability to troubleshoot and solve complex technical issues effectively.
+* Collaboration with cross-functional teams to deliver high-quality software solutions.
+
+I am continuously learning and staying updated with the latest technologies and industry trends to improve my skills and contribute to innovative projects. My goal is to leverage my expertise in Node.js to develop backend systems that are not only reliable and efficient but also scalable to meet growing demands.
+
+I am enthusiastic about connecting with other professionals in the tech community, sharing knowledge, and exploring new opportunities for collaboration.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Languages and Tools ⚙</i>
