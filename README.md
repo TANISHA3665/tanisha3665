@@ -1,62 +1,71 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**TANISHA3665/tanisha3665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Tanisha Jaiswal 👋
 
-Here are some ideas to get you started:
+**Backend Developer · Node.js · TypeScript · B.Tech CSE '23**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tanishaaaa.hashnode.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_tan__isha_)
 
- [![Hashnode Badge](https://img.shields.io/badge/-tanisha-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://tanishaaaa.hashnode.dev/)](https://tanishaaaa.hashnode.dev/)  [![Linkedin Badge](https://img.shields.io/badge/-tanisha-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)  [![Linktree Badge](https://img.shields.io/badge/-tanisha-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://linktr.ee/tanisha3665)](https://linktr.ee/tanisha3665)  [![Portfolio Badge](https://img.shields.io/badge/-tanisha.me-c14438?style=flat-square&logo=Browser&logoColor=white&link=https://TANISHA3665.github.io/)](https://TANISHA3665.github.io/) 
+</div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### <i>About</i>
- 
- As a dedicated software developer with almost a year of experience specializing in backend development with Node.js, I am passionate about building efficient, scalable, and high-performance server-side applications. My journey in the software development world has equipped me with a strong foundation in Node.js, enabling me to create robust solutions that drive business success.
+---
 
-During my professional experience, I have been involved in various projects where I have successfully designed, developed, and maintained backend systems. My expertise includes creating RESTful APIs, managing databases, and optimizing server performance to ensure seamless user experiences.
+## About Me
 
-Key skills and highlights of my experience include:
+Backend developer specializing in **Node.js + TypeScript**. I build production-ready REST APIs, event-driven services, and scalable backend systems — comfortable owning features end-to-end from schema design and API layer to caching and async job processing.
 
-* Proficiency in Node.js and Express.js for backend development.
-* Strong understanding of RESTful API design and implementation.
-* Experience with both relational and NoSQL databases, including MongoDB and MySQL.
-* Knowledge of microservices architecture and distributed systems.
-* Ability to troubleshoot and solve complex technical issues effectively.
-* Collaboration with cross-functional teams to deliver high-quality software solutions.
+- ⚡ Building performant backend systems with **Node.js · TypeScript · Express**
+- 🗄️ Working with **MongoDB · MySQL** across relational and document-oriented data models
+- 🔴 Implementing caching layers with **Redis** and async workflows with **RabbitMQ**
+- 🔐 Handling auth with **JWT · bcrypt** — stateless, secure, production patterns
+- ✍️ Writing about backend engineering on [Hashnode](https://tanishaaaa.hashnode.dev/)
+- 📬 Open to **remote backend / full-stack roles**
 
-I am continuously learning and staying updated with the latest technologies and industry trends to improve my skills and contribute to innovative projects. My goal is to leverage my expertise in Node.js to develop backend systems that are not only reliable and efficient but also scalable to meet growing demands.
+---
 
-I am enthusiastic about connecting with other professionals in the tech community, sharing knowledge, and exploring new opportunities for collaboration.
+## Tech Stack
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### <i>Languages and Tools ⚙</i>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="java"></code>
-<code><img width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML5"></code>
-<code><img width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS3"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+**Core**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img alt="Tanisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TANISHA3665&show_icons=true&theme=gotham">
-</p>
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=TANISHA3665&&row=2&column=4&theme=juicyfresh" />
-</p>
+**Caching & Messaging**
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHA3665&show_icons=true&theme=gotham">
-</p>
+**Auth & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=flat-square&logoColor=white)
 
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**Frontend (when needed)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## Let's Connect
+
+Available for remote backend roles. I bring hands-on experience with Node.js, TypeScript, Redis, RabbitMQ, and building APIs that are reliable and production-ready.
+
+📩 [LinkedIn](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/) · [Blog](https://tanishaaaa.hashnode.dev/) · [Portfolio](https://TANISHA3665.github.io/)
+
+---
+
+<div align="center">
+<sub>Built with curiosity · Powered by coffee ☕</sub>
+</div>
