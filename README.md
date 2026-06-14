@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hey, I'm Tanisha Jaiswal 👋
+# Tanisha Jaiswal
+### Backend Engineer · Node.js · TypeScript · Microservices
 
-**Backend Developer · Node.js · TypeScript · B.Tech CSE '23**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/)
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tanishaaaa.hashnode.dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_tan__isha_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-jaiswal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaiswaltanisha11@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://tanishaaaa.hashnode.dev/)
 
 </div>
 
@@ -14,58 +13,91 @@
 
 ## About Me
 
-Backend developer specializing in **Node.js + TypeScript**. I build production-ready REST APIs, event-driven services, and scalable backend systems — comfortable owning features end-to-end from schema design and API layer to caching and async job processing.
+Backend engineer with **3 years** of production experience building distributed, event-driven systems.
+Currently a core engineer on a **20-service marine ERP/CRM platform** — contributing across 18 services spanning sales, finance, inventory, ticketing, and real-time communication.
 
-- ⚡ Building performant backend systems with **Node.js · TypeScript · Express**
-- 🗄️ Working with **MongoDB · MySQL** across relational and document-oriented data models
-- 🔴 Implementing caching layers with **Redis** and async workflows with **RabbitMQ**
-- 🔐 Handling auth with **JWT · bcrypt** — stateless, secure, production patterns
-- ✍️ Writing about backend engineering on [Hashnode](https://tanishaaaa.hashnode.dev/)
-- 📬 Open to **remote backend / full-stack roles**
+- 🔧 Deep expertise in **RabbitMQ** publisher/subscriber integrity, **Socket.IO** real-time systems, and **PostgreSQL** performance optimization
+- 📉 Slashed dashboard response times from **~400ms → ~40ms** by resolving Sequelize N+1 patterns
+- 💬 Built a Socket.IO + Redis pub/sub chat layer handling **50+ concurrent WebSocket connections**
+- 📄 Owned **5 finance document types** end-to-end with ~25 REST endpoints, S3 attachments, and threaded discussions
+- 🧩 Led monolith-to-microservices decomposition at a previous role — defining boundaries, API contracts, and cross-service auth
 
 ---
 
 ## Tech Stack
 
-**Core**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Databases**
+**Backend & Messaging**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Caching & Messaging**
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+**ORMs**
 
-**Auth & Security**
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=flat-square&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Frontend (when needed)**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## Let's Connect
+## Featured Projects
 
-Available for remote backend roles. I bring hands-on experience with Node.js, TypeScript, Redis, RabbitMQ, and building APIs that are reliable and production-ready.
+> ⚡ Each project below demonstrates a production pattern from real work.
 
-📩 [LinkedIn](https://www.linkedin.com/in/tanisha-jaiswal-3547681a9/) · [Blog](https://tanishaaaa.hashnode.dev/) · [Portfolio](https://TANISHA3665.github.io/)
+### 🐇 [RabbitMQ Integrity Guard] *(Smartmarine)*
+Cross-service deletion validation via RabbitMQ publisher/subscriber — prevents data inconsistency without a shared database. Covers 6+ entity types across microservices.
+`TypeScript` `RabbitMQ` `PostgreSQL`
+
+### 💬 [Real-Time Chat with Redis Fan-out] *(Smartmarine)*
+Socket.IO chat with Redis pub/sub presence, typing indicators, delivery/read receipts, and missed-message replay on reconnect.
+`Socket.IO` `Redis` `Node.js`
+
+### 🔗 [URL Shortener](https://github.com/TANISHA3665/URL_Shortener)
+Clean Node.js URL shortener with redirect tracking.
+`Node.js` `JavaScript`
+
+### 🕵️ [Steganographic Image Editor](https://github.com/TANISHA3665/STENOGRAPHIC-IMAGE-EDITOR)
+Encode and decode secret messages hidden inside images.
+`JavaScript`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANISHA3665&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHA3665&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Built with curiosity · Powered by coffee ☕</sub>
+
+*Open to backend / distributed systems roles — feel free to reach out!*
+
 </div>
