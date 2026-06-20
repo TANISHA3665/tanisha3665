@@ -66,7 +66,7 @@ Currently a core engineer on a **20-service marine ERP/CRM platform** — contri
 
 > ⚡ Each project below demonstrates a production pattern from real work.
 
-### 🐇 [RabbitMQ Integrity Guard] *(Smartmarine)*
+### 🐇 [RabbitMQ Integrity Guard](https://github.com/TANISHA3665/delete-guard) *(Smartmarine)*
 Cross-service deletion validation via RabbitMQ publisher/subscriber — prevents data inconsistency without a shared database. Covers 6+ entity types across microservices.
 `TypeScript` `RabbitMQ` `PostgreSQL`
 
